@@ -1,0 +1,10 @@
+node_modules/
+/build/
+/src/styles/themes/
+.idea
+yarn-error.log
+build.zip
+.DS_Store
+.vscode
+.eslintcache
+package-lock.json
